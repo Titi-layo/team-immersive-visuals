@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/team-immersive-visuals/static/css/main.d0ed9065.css",
+    "main.js": "/team-immersive-visuals/static/js/main.f9b87d29.js",
+    "static/js/787.f558cfc1.chunk.js": "/team-immersive-visuals/static/js/787.f558cfc1.chunk.js",
+    "index.html": "/team-immersive-visuals/index.html",
+    "main.d0ed9065.css.map": "/team-immersive-visuals/static/css/main.d0ed9065.css.map",
+    "main.f9b87d29.js.map": "/team-immersive-visuals/static/js/main.f9b87d29.js.map",
+    "787.f558cfc1.chunk.js.map": "/team-immersive-visuals/static/js/787.f558cfc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0ed9065.css",
+    "static/js/main.f9b87d29.js"
+  ]
+}

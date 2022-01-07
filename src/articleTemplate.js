@@ -10,7 +10,7 @@ export default function ArticleTemplate() {
         corrupti, nemo quae iusto dolor a, reiciendis voluptatibus aliquid modi
         autem, officiis voluptatum corporis delectus! Molestiae doloribus
         consequuntur architecto. Deleniti distinctio sequi perspiciatis itaque
-        dolor saepe reiciendis nostrum, molestias consequuntur? Perspiciatis
+        dolor saeprre reiciendis nostrum, molestias consequuntur? Perspiciatis
         dolore, culpa minus iusto eos corrupti? Eius harum quos consequuntur
         fugiat laborum dolore voluptate molestias ullam provident quam, dolorem
         iusto praesentium quisquam sit soluta modi illo vel porro, hic alias

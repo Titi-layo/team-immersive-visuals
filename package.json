@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Titi-layo.github.io/team-immersive-visuals",
+  "homepage": "https://Titi-layo.github.io/team-immersive-visuals",
   "name": "more-immersive-visuals",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +13,7 @@
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "gh-pages": "^3.2.3",
+    "heroku": "^7.59.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
